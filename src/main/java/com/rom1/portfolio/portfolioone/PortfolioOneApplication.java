@@ -8,6 +8,7 @@ public class PortfolioOneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PortfolioOneApplication.class, args);
+		
 	}
 
 }
